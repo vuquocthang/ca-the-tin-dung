@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'ABeeZee';
+  font-style: normal;
+  font-weight: 400;
+  src: local('ABeeZee Regular'), local('ABeeZee-Regular'), url(../fonts.gstatic.com/s/abeezee/v10/m_J3nYLkIiGqm2wAiy01kg.woff) format('woff');
+}
+@font-face {
+  font-family: 'ABeeZee';
+  font-style: italic;
+  font-weight: 400;
+  src: local('ABeeZee Italic'), local('ABeeZee-Italic'), url(../fonts.gstatic.com/s/abeezee/v10/gdFHbjHcLYROorto_Tq2Ez8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cabin'), local('Cabin-Regular'), url(../fonts.gstatic.com/s/cabin/v11/JEgmtEDzc-IH8jBshQXrYA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Cabin Bold'), local('Cabin-Bold'), url(../fonts.gstatic.com/s/cabin/v11/haOjnueK8Or1ztuuRtr8dvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Cabin';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Cabin Italic'), local('Cabin-Italic'), url(../fonts.gstatic.com/s/cabin/v11/jZSwn9gMgsQpyndNljYDIw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Cabin';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Cabin Bold Italic'), local('Cabin-BoldItalic'), url(../fonts.gstatic.com/s/cabin/v11/Ww23LQNlhn4dAm9uegPaXxsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}

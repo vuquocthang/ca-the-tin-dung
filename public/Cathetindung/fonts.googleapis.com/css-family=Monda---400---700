@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Monda';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Monda Regular'), local('Monda-Regular'), url(../fonts.gstatic.com/s/monda/v6/sk05J8GA1NvUxDnk43EgAQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Monda';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Monda Bold'), local('Monda-Bold'), url(../fonts.gstatic.com/s/monda/v6/uCFS-jQepl-zVlhjycME2fesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
